@@ -1,5 +1,5 @@
 ## Hello World, my name is Fernando Menna Barreto Nogueira 😁
-<div><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoDAgostinZanelato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FerNogueiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e Tecnologias que Estou Aprendendo
