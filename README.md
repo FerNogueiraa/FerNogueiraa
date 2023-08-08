@@ -23,4 +23,7 @@
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-
+## Línguas que studo<hr color="#ff0000" width="65%" align="left"> 
+<div style="display: inline_block"> <br/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="25"/>
+<img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
