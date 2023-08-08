@@ -10,11 +10,10 @@
 
 ## Línguas que Estudo
 
-<img  src="https://seeklogo.com/images/I/italy_flag-logo-66B831B5DB-seeklogo.com.png" width="35" height="25"/> <img src="https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg" width="35" height="25"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="35" height="25"/>
 <img src="https://www.freepnglogos.com/uploads/american-flag-png/simple-american-flag-16.png" width="37" height="26"/>
 
 ## Entre em Contato
-<a href = "mailto:gustavodagostinzanelato0@gmail.com"><img loading="lazy" width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/gustavo_dagostin/?next=%2F" target="_blank"><img loading="lazy" width="90" height="25"
+<a href = "mailto:fernando.mennabnogueira@gmail.com"><img loading="lazy" width="90" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/fermandombn_/?next=%2F" target="_blank"><img loading="lazy" width="90" height="25"
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a> 
